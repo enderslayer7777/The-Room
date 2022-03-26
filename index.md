@@ -1,3 +1,3 @@
 # The Room
 ## Homepage
-[Script](script.md)
+[Script](script)
