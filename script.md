@@ -23,7 +23,7 @@
 
 > {
 >
-> :Peter;"Due to my loyalty to the buisness, I enjoy getting up early to ensure I'm never late."
+>         :Peter;"Due to my loyalty to the buisness, I enjoy getting up early to ensure I'm never late."
 >  
 >  }
 
