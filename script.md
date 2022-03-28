@@ -14,7 +14,7 @@
 
 \*Luke sits down
 
-:Peter;"Yeah, traffic's terrible. That's what I wake uip at three"
+:Peter;"Yeah, traffic's terrible. That's what I wake up at three"
 
 -cut
 
