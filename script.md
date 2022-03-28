@@ -44,7 +44,30 @@
 
 :Luke;"Oh no, I couldn't I have a very important buisness metting. I'm sorry--I'm really sor-"
 
+#Luke/move/Sleeping chair
+
 \*Luke sits down and starts sleeping
+-cut
+
+-pause
+
+@move/Interview table
+
+-resume
+
+{
+
+> :Luke;"Look, I had a bad sleep, I'm tired. This is hard work."
+  
+}
+
+-cut
+
+-pause
+
+@move/Main filming area
+
+-resume
 
 ## Key
 \*Action
@@ -60,3 +83,5 @@
 -pause: Pause video
 
 @Camera action/extra info
+
+#Person/extra info
