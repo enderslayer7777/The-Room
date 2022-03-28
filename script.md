@@ -1,4 +1,7 @@
+## [Home](index)
+
 # Script
+
 \*Olivia walks in
 
 \*Luke stands up
